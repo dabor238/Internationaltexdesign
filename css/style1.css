@@ -2033,7 +2033,7 @@ only screen and (min-device-pixel-ratio: 1.5){
 .price-pack-body a {
     font-size: 15px;
     padding: 7px 21px;
-    background-color: #ffcf00;
+    background-color: #337ab7;
     color: black;
     border-radius: 6px;
     letter-spacing: 1px;
