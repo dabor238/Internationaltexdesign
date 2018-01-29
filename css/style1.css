@@ -1921,7 +1921,7 @@ only screen and (min-device-pixel-ratio: 1.5){
 #pricing{
     height: auto;
     width: 100%;
-    background-color: #ffcf00;
+    background-color: #337ab7;
 }
 .pricing-content{
     padding-bottom: 100px;
@@ -1993,7 +1993,7 @@ only screen and (min-device-pixel-ratio: 1.5){
     -ms-transition: .4s;
     margin-top: 7px;
     padding: 11px 30px;
-    background-color: #ffcf00;
+    background-color: #337ab7;
 }
 .price-pack-head p {
     margin: 0px;
@@ -2004,7 +2004,7 @@ only screen and (min-device-pixel-ratio: 1.5){
 }
 .price-pack-head p span {
     font-size: 30px;
-    color: #ffcf00;
+    color: #337ab7;
     font-weight: 900;
     font-family: 'Montserrat', sans-serif;
 }
