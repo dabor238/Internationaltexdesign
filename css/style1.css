@@ -2613,7 +2613,7 @@ section {
     .price-pack {
         position: relative;
         margin: 0px 0px;
-        border: 1px solid #FFD800;
+        border: 1px solid #337ab7;
         padding: 28px 0px;
         background-color: white;
         transition: .4s;
