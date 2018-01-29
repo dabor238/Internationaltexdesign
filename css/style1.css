@@ -2042,7 +2042,7 @@ only screen and (min-device-pixel-ratio: 1.5){
     -moz-transition: .3s;
     -ms-transition: .3s;
     -o-transition: .3s;
-    border: 3px solid #ffcf00;
+    border: 3px solid #337ab7;
     margin-right: 10px;
 }
 .price-pack-body a:hover {
