@@ -107,7 +107,7 @@
                             </div><!-- end container -->
                         </div><!-- end table-cell -->
                     </div><!-- end home-content-main -->
-                    <div id="carousel-example-generic" class="carousel slide carousel-fade" data-ride="carousel">
+                    <div id="carousel-example-generic" class="carousel slide carousel-fade hidden-xs" data-ride="carousel">
                         <ol class="carousel-indicators">
                             <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
                             <li data-target="#carousel-example-generic" data-slide-to="1"></li>
@@ -480,7 +480,8 @@
 
         <script type="text/javascript">
             $(document).ready(function () {
-                $('#formularioenviado').hide();                $('#enviarForm').click(function () {
+                $('#formularioenviado').hide();
+                $('#enviarForm').click(function () {
                     var $this = $(this);
                     $this.button('loading');
                     var nombre = $('#name').val();

@@ -2693,7 +2693,7 @@ section {
         margin-top: -56px;
     }
     .navbar-default {
-        background-color: transparent;
+        background-color: white;
         height: 75px;
         border-bottom: none;
         overflow: visible;
@@ -2784,6 +2784,10 @@ section {
         padding-bottom: 100px;
         margin: 0px 15px;
     }
+
+    .home-content-main {
+        background: lightblue url("../img/img4.jpg") no-repeat fixed center;
+    } 
 }
 
 
