@@ -256,7 +256,7 @@ body{
     height: 100vh;
     min-height: 100%;
     width: 100%;
-    background-image: url(../img/img1.jpg);
+    background-image: url(../img/img12.jpg);
     position: relative;
     background-size: cover;
     background-position: center center;
@@ -2787,7 +2787,7 @@ section {
 
     /*.home-content-main {
         background: lightblue url("../img/img4.jpg") no-repeat fixed center;
-    }*/ 
+    }*/
 }
 
 
