@@ -261,7 +261,24 @@ body{
     background-size: cover;
     background-position: center center;
 }
-
+.home-slider-2 {
+    height: 100vh;
+    min-height: 100%;
+    width: 100%;
+    background-image: url(../img/img14.jpg);
+    position: relative;
+    background-size: cover;
+    background-position: center center;
+}
+.home-slider-3 {
+    height: 100vh;
+    min-height: 100%;
+    width: 100%;
+    background-image: url(../img/img13.jpg);
+    position: relative;
+    background-size: cover;
+    background-position: center center;
+}
 .carousel-inner {
     position: relative;
     width: 100%;
